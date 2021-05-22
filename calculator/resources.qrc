@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Icon">
+        <file>icon/cursed.png</file>
+    </qresource>
+</RCC>
